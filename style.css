@@ -1,0 +1,82 @@
+* {
+  margin: 8px 5px;
+}
+
+#cabecalho {
+  display: flex;
+}
+
+#banner {
+  text-align: center;
+}
+
+button {
+  height: 30px;
+}
+
+#pizza {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#pizza2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#calabresa {
+  text-align: center;
+  width: 300px;
+  border: solid 5px black;
+  border-radius: 15px;
+  background-color: #f52c2c;
+}
+
+#tomate {
+  text-align: center;
+  width: 300px;
+  border: solid 5px black;
+  border-radius: 15px;
+  background-color: #f52c2c;
+}
+
+#alho {
+  text-align: center;
+  width: 300px;
+  border: solid 5px black;
+  border-radius: 15px;
+  background-color: #f52c2c;
+}
+
+#pimentao {
+  text-align: center;
+  width: 300px;
+  border: solid 5px black;
+  background-color: #f52c2c;
+  border-radius: 15px;
+}
+
+input {
+  height: 30px;
+  border-radius: 15px;
+  width: 800px;
+}
+
+#pizzas {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#pizzas2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#rodape {
+  text-align: center;
+}
+
+#clb {
+  display: flex;
+  justify-content: space-evenly;
+}
